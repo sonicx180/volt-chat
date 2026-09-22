@@ -1,10 +1,10 @@
 <script lang="ts">
-
+import Hero from "$lib/components/Hero.svelte";
 </script>
+
 <main>
-    <h1> VoltChat</h1>
+<Hero />
 </main>
 
 <style>
-
 </style>
